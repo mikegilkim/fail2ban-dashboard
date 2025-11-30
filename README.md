@@ -278,7 +278,7 @@ The dashboard will automatically detect and use it!
 1. **Change Default SSH Port**
    ```bash
    # Edit /etc/ssh/sshd_config
-   Port 2024
+   Port 9876 or any
    ```
 
 2. **Use SSH Keys** instead of passwords
@@ -396,15 +396,11 @@ If you find this useful, please **star the repository**!
 ## 🙏 Credits
 
 - Built with ❤️ for the sysadmin community
-- Designed for [fail2ban](https://www.fail2ban.org)
-- Created by [mikegilkim](https://facebook.com/mikegilkim)
 
 ---
 
 <div align="center">
 
 **Keep your server secure with Fail2ban Dashboard!** 🛡️✨
-
-Made with ❤️ by [mikegilkim](https://facebook.com/mikegilkim)
 
 </div>
